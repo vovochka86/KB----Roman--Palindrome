@@ -1,0 +1,23 @@
+{
+  "name": "roman_palindrome",
+  "version": "1.0.0",
+  "description": "Конвертация в арабских цифр в римские и проверка на палиндром ",
+  "main": "roman_palindrome.js",
+  "dependencies": {
+    "arabic-roman-convert.js": "^1.2.1",
+    "is-palindrome": "^0.3.0",
+    "readline-sync": "^1.4.7",
+    "romanize": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "палиндром",
+    "римские",
+    "цифры"
+  ],
+  "author": "",
+  "license": "ISC"
+}
